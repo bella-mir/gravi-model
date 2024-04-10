@@ -1,2 +1,2 @@
 # gravi-model
-[Населенные пункты России: численность населения и географические координаты](https://www.data-in.ru/data-catalog/datasets/160/)
+[Населенные пункты России: численность населения и географические координаты](https://data.rcsi.science/data-catalog/datasets/160/)
